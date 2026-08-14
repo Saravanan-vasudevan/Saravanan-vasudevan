@@ -15,14 +15,13 @@
 
 ## About Me
 
-I'm a Data Scientist and AI Engineer with an **MSc in Data Science (Distinction) from Cardiff University**, specialising in large language models, retrieval-augmented generation, and end-to-end ML deployment.
+I'm a Data Scientist and AI Engineer with an **MSc in Data Science (Distinction) from Cardiff University**, specialising in large language models, retrieval-augmented generation and end-to-end ML deployment.
 
-I go beyond notebooks — I build and ship full-stack AI applications with FastAPI backends, React frontends, Docker containers, and cloud deployments on GCP.
+I go beyond notebooks — I build and ship full-stack AI applications with FastAPI backends, React frontends, Docker containers and cloud deployments on GCP.
 
-- 🔭 Currently building: **ML Monitoring Dashboard** and production RAG systems
-- 🎓 MSc Data Science — Cardiff University *(Distinction)*
-- 🌍 Open to: Data Scientist / AI Engineer / ML Engineer roles
-- 📫 Reach me: [linkedin.com/in/saravanan-vasudevan](https://linkedin.com/in/saravanan-vasudevan)
+- MSc Data Science — Cardiff University *(Distinction)*
+- Open to: Data Scientist / AI Engineer / ML Engineer roles
+- Reach me: [linkedin.com/in/saravanan-vasudevan](https://linkedin.com/in/saravanan-vasudevan)
 
 ---
 
@@ -95,18 +94,6 @@ I go beyond notebooks — I build and ship full-stack AI applications with FastA
 - Interactive **Streamlit** dashboard · statistical diagnostics · peer-reviewed dissertation
 
 `Python` `ARIMA` `statsmodels` `Streamlit` `Time Series` `Data Analysis`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Saravanan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saravanan-vasudevan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanan-vasudevan&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
