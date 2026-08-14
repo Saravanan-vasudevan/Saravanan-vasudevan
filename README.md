@@ -99,8 +99,7 @@ I go beyond notebooks — I build and ship full-stack AI applications with FastA
 
 ## Let's Connect
 
-I'm actively looking for **Data Scientist**, **AI Engineer**, and **ML Engineer** roles.
-If you're working on LLMs, RAG systems, or production ML — let's talk.
+If you're working on LLMs, RAG systems or production ML — let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saravanan-vasudevan)
 
