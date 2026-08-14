@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Saravanan V 👋
+# Hi, I'm Saravanan V 
 
 ### Data Scientist & AI Engineer
 
-*Building production-ready RAG pipelines, LLM applications, and ML systems*
+*Building production-ready RAG pipelines, LLM applications and ML systems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saravanan-vasudevan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-vasudevan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saravanan-vasudevan)
 
 </div>
