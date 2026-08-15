@@ -64,7 +64,7 @@ I go beyond notebooks — I build and ship full-stack AI applications with FastA
 
 ## Featured Projects
 
-### 🔍 [AI Hate Speech Detection](https://github.com/Saravanan-vasudevan/AI-HateSpeech-Detection)
+### [AI Hate Speech Detection](https://github.com/Saravanan-vasudevan/AI-HateSpeech-Detection)
 > Full-stack hate speech detection platform with multi-model ensemble approach
 
 - Combines **TF-IDF/Logistic Regression**, fine-tuned **DistilBERT** (HuggingFace), and **Gemini/Ollama LLMs**
@@ -75,7 +75,7 @@ I go beyond notebooks — I build and ship full-stack AI applications with FastA
 
 ---
 
-### 🤖 [RAG Evaluation Engine](https://github.com/Saravanan-vasudevan/Rag-Evaluation-Engine)
+### [RAG Evaluation Engine](https://github.com/Saravanan-vasudevan/Rag-Evaluation-Engine)
 > Production RAG pipeline where evaluation is a first-class concern — not an afterthought
 
 - Configurable **chunking strategies** (fixed, semantic, sliding window)
@@ -86,7 +86,7 @@ I go beyond notebooks — I build and ship full-stack AI applications with FastA
 
 ---
 
-### 📊 [MSc Dissertation — Welsh Waste Analytics](https://github.com/Saravanan-vasudevan/MSc-Dissertation-Waste-Analytics)
+### [MSc Dissertation — Welsh Waste Analytics](https://github.com/Saravanan-vasudevan/MSc-Dissertation-Waste-Analytics)
 > Can Merthyr Tydfil hit Wales's 70% recycling target? 12 years of data say...
 
 - **ARIMA**, **Holt's Exponential Smoothing**, and **Singular Spectrum Analysis** forecasting
