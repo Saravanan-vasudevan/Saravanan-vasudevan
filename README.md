@@ -15,9 +15,11 @@
 
 ## About Me
 
-I'm a Data Scientist and AI Engineer with an **MSc in Data Science (Distinction) from Cardiff University**, specialising in large language models, retrieval-augmented generation and end-to-end ML deployment.
+I’m an **MSc in Data Science (Distinction) from Cardiff University**, with a bachelor’s degree in Artificial Intelligence and Data Science.
 
-I go beyond notebooks — I build and ship full-stack AI applications with FastAPI backends, React frontends, Docker containers and cloud deployments on GCP.
+I'm a Data Scientist and AI Engineer with an , specialising in large language models, retrieval-augmented generation and end-to-end ML deployment.
+
+I go beyond notebooks, I build and ship full-stack AI applications with FastAPI backends, React frontends, Docker containers and cloud deployments on GCP.
 
 - MSc Data Science — Cardiff University *(Distinction)*
 - Open to: Data Scientist / AI Engineer / ML Engineer roles
@@ -82,7 +84,7 @@ I go beyond notebooks — I build and ship full-stack AI applications with FastA
 - Measures retrieval precision and answer faithfulness, with evaluation history and CSV export
 - Streamlit dashboard · Groq LLMs · ChromaDB · sentence-transformers · pytest
 
-`Python` `RAG` `ChromaDB` `FastAPI` `Streamlit` `Docker` `pytest` `Claude API`
+`Python` `RAG` `ChromaDB` `Groq` `Streamlit` `sentence-transformers` `pytest` 
 
 ---
 
