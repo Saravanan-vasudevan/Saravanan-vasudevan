@@ -69,7 +69,7 @@ I go beyond notebooks, I build and ship full-stack AI applications with FastAPI 
 ### [AI Hate Speech Detection](https://github.com/Saravanan-vasudevan/AI-HateSpeech-Detection)
 > Full-stack hate speech detection platform with multi-model ensemble approach
 
-- Combines **TF-IDF/Logistic Regression**, fine-tuned **DistilBERT** (HuggingFace), and **Gemini/Ollama LLMs**
+- Combines TF-IDF/Logistic Regression, a Hugging Face RoBERTa classifier and Gemini/Ollama models
 - **FastAPI** backend with role-based auth, prediction history, and gamified quiz system
 - **React 19** frontend · **MongoDB** · **Dockerized** · ready for **GCP Cloud Run**
 
