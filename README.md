@@ -71,7 +71,7 @@ I go beyond notebooks, I build and ship full-stack AI applications with FastAPI 
 - **FastAPI** backend with role-based auth, prediction history, and gamified quiz system
 - **React 19** frontend · **MongoDB** · **Dockerized** · ready for **GCP Cloud Run**
 
-`Python` `FastAPI` `DistilBERT` `HuggingFace` `React` `MongoDB` `Docker` `GCP`
+`Python` `FastAPI` `RoBERTa` `HuggingFace` `React` `MongoDB` `Docker` `GCP`
 
 ---
 
