@@ -78,9 +78,9 @@ I go beyond notebooks — I build and ship full-stack AI applications with FastA
 ### [RAG Evaluation Engine](https://github.com/Saravanan-vasudevan/Rag-Evaluation-Engine)
 > Production RAG pipeline where evaluation is a first-class concern — not an afterthought
 
-- Configurable **chunking strategies** (fixed, semantic, sliding window)
-- Measures **retrieval precision**, **answer faithfulness**, and **query latency**
-- **Streamlit** dashboard · **FastAPI** + Swagger UI · **ChromaDB** · **pytest** test suite · **Docker Compose**
+- Compares fixed-size and sentence-aware semantic chunking strategies
+- Measures retrieval precision and answer faithfulness, with evaluation history and CSV export
+- Streamlit dashboard · Groq LLMs · ChromaDB · sentence-transformers · pytest
 
 `Python` `RAG` `ChromaDB` `FastAPI` `Streamlit` `Docker` `pytest` `Claude API`
 
