@@ -15,9 +15,7 @@
 
 ## About Me
 
-I’m an **MSc in Data Science (Distinction) from Cardiff University**, with a bachelor’s degree in Artificial Intelligence and Data Science.
-
-I'm a Data Scientist and AI Engineer with an , specialising in large language models, retrieval-augmented generation and end-to-end ML deployment.
+I’m a **MSc in Data Science (Distinction) from Cardiff University**, with a bachelor’s degree in Artificial Intelligence and Data Science, A Data Scientist and AI Engineer with an , specialising in large language models, retrieval-augmented generation and end-to-end ML deployment.
 
 I go beyond notebooks, I build and ship full-stack AI applications with FastAPI backends, React frontends, Docker containers and cloud deployments on GCP.
 
